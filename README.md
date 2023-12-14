@@ -9,5 +9,5 @@ Welcome to my GitHub! I'm **Marco Antônio**, a enrolled in computer engineering
 ### Get in touch
  - Linkedin: <a href = "https://www.linkedin.com/in/marco-antonio-6143a615a/">marco antonio</a>
  - Email: *marco.almeida701@hotmail.com*
- - Contact: +55(11)96335-1753
+ 
 
