@@ -1,7 +1,7 @@
 Welcome to my GitHub! I'm **Marco Antônio**, a enrolled in computer engineering graduation course. I'm looking for my first job opportunity as a front-end developer.
 
 ### I'm currently learning
- - HTML | CSS | JavaScript | TypeScript | React | Angular | Node.js | Python | Java | Git | Linux | SQL | NoSQL |
+ - HTML | CSS | JavaScript | TypeScript | React | Angular | Node.js | Python | Java | Git | Linux | SQL | NoSQL | AWS
 
 ### Design softwares I'm familiar with
  - Figma | Photoshop 
