@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm **Marco Antônio**, a enrolled in computer engineering
  - Figma | Photoshop 
 
 ### Get in touch
- - Linkedin: <a href = "https://www.linkedin.com/in/marco-antonio-6143a615a/">marco antonio</a>
+ - Linkedin: <a href = "https://www.linkedin.com/in/marcoantoniomiguel/">marco antonio</a>
  - Email: *marco.almeida701@hotmail.com*
  
 
