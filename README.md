@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm **Marco Antônio**, a enrolled in computer engineering graduation course. I'm looking for my first job opportunity as a front-end developer.
+Welcome to my GitHub! I'm Marco Antônio, a Computer Engineering graduate currently pursuing a degree in Systems Analysis and Development. I'm passionate about technology and looking for my first opportunity as a Front-End Developer.
 
 ### I'm currently learning
  - HTML | CSS | JavaScript | TypeScript | React | Angular | Node.js | Python | Java | Git | Linux | SQL | NoSQL | AWS
